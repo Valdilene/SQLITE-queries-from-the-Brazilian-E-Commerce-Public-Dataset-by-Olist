@@ -9,4 +9,3 @@ ORDER BY payment_type ASC;
 --SELECT *
 --FROM olist_order_payments_dataset
 --WHERE UPPER (TRIM (payment_type)) IN ('BOLETO', 'VOUCHER') -- UPPER capitalise all letters and TRIM delete blank spaces surrounding the words
-
