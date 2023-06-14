@@ -1,0 +1,2 @@
+/*Tarefa: Desafios de SQL 2
+retorne a quantidade de itens vendidos em cada categoria por estado em que o cliente se encontra, mostrando somente categorias que tenham vendido uma quantidade de items acima de 1000.*/
